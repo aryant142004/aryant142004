@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=185§ion=header&text=ARYAN%20TYAGI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SAP%20S%2F4HANA%20Cloud%20%7C%20SAP%20BTP%20%26%20Power%20Platform%20Consultant&descSize=16&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=185§ion=header&text=ARYAN%20TYAGI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SAP%20S%2F4HANA%20Cloud%20%7C%20SAP%20BTP%20%7C%20Power%20Platform%20Consultant&descSize=16&descAlignY=62" width="100%" />
 
   <h3>Building Clean-Core Enterprise Extensions, Cloud Integrations & Agentic AI Workflows</h3>
 
